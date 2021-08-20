@@ -1,6 +1,6 @@
 import { combineReducers } from "redux";
-import caluculator from './caluculator';
+import calculator from "./calculator";
 
-const reducer = combineReducers({ caluculator });
+const reducer = combineReducers({ calculator });
 
 export default reducer;
